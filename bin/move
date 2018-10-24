@@ -9,5 +9,3 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 input = gets.strip
 
 index = input_to_index
-
-board = input_to_index# Code your CLI Here
