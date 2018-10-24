@@ -14,5 +14,6 @@ board = [" ", " ", " "]
 def move(array, index, value = "X")
   puts "#{value}"
   puts array[index] = value
-  board = "#{array}"
 end
+
+board = "#{array}"
