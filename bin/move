@@ -8,6 +8,5 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 input = gets.strip
 
-board = move
 
 # Code your CLI Here
