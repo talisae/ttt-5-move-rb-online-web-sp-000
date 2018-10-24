@@ -9,4 +9,6 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 input = gets.strip
 
 index = input_to_index
+
+board = "#{move}"
 # Code your CLI Here
