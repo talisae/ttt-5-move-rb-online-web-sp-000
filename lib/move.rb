@@ -13,5 +13,5 @@ end
 def move(array, index, value = "X")
   puts "#{value}"
   puts array[index] = value
-  puts array.new
+  array.new
 end
