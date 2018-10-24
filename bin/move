@@ -10,4 +10,5 @@ input = gets.strip
 
 index = input_to_index
 
+board = array
 # Code your CLI Here
