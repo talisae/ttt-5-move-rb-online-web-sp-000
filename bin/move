@@ -9,3 +9,5 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 input = gets.strip
 
 index = input_to_index("X")
+
+move(board, 0, "X")
