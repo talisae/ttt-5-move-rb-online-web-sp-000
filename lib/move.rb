@@ -16,4 +16,4 @@ def move(array, index, value = "X")
   puts array[index] = value
 end
 
-board = "#{array}"
+board = "#{move}"
